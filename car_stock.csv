@@ -1,0 +1,5 @@
+,type,color,make,model,engine size,fue cells,initial stock,current stock
+0,Petrol,Silver,Ford,Focus,1.6,,20,18
+1,Diesel,Silver,Renault,Clio,1.5,,10,10
+2,Electric,Silver,Nissan,Leaf,,62KWH,6,6
+3,Hybrid,Silver,Toyota,Corolla,,,4,4
