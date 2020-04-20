@@ -3,6 +3,7 @@
 File Description: basic infomation of veriety of cars
 Student ID : 10543531
 Student Name: Wenjuan Zhao
+Git hub: https://github.com/lulu0066/B8IT105.git
 """
 
 import pandas as pd
